@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="addcatagory">Add Catagory</string>
+    <string name="addpayment">Add Payment</string>
+    <string name="addpaymentmode">Add Payment Mode</string>
+    <string name="AddExpense">Add Expense</string>
+    <string name="AddIncome">Add Income</string>
+    <string name="ViewTransaction">View Transaction</string>
+    <string name="home">Home</string>
+    <string name="Calandar">Calandar</string>
+    <string name="PaymentMode">Payment Mode</string>
+    <string name="ExportedReport">Exported Report </string>
+    <string name="Setting">Setting </string>
+    <string name="AppLock">App Lock </string>
+    <string name="RateTheApp">Rate The App </string>
+    <string name="Fedback">Fedback</string>
+    <string name="SharewithFriend">Share with Friend</string>
+    <string name="PrivecyPolicy">Privecy Policy</string>
+    <string name="TermsofService"> Terms of Service</string>
+    <string name="ExpenseManager"> Expense Manager</string>
+    <string name="Type"> Type</string>
+    <string name="type"> Type :- </string>
+    <string name="Amount"> Amount</string>
+    <string name="amount"> Amount :- </string>
+    <string name="Catagory"> Catagory</string>
+    <string name="catagory"> Catagory :- </string>
+    <string name="Mode"> Mode</string>
+    <string name="mode"> Mode :- </string>
+    <string name="Note"> Note</string>
+    <string name="submit"> Submit</string>
+    <string name="Submit"> Submit</string>
+    <string name="Date"> Date :- </string>
+    <string name="Time"> Time :-  </string>
+    <string name="TransactionView"> Transaction View</string>
+    <string name="DateTime"> Date &amp; Time</string>
+</resources>
